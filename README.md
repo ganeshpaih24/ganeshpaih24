@@ -73,9 +73,11 @@ B.E. 3rd year Information Science student. Currently working as the Website Edit
 [![Twitter Badge](https://img.shields.io/badge/-@ganeshpaih24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ganeshpaih24)](https://twitter.com/ganeshpaih24) [![Linkedin Badge](https://img.shields.io/badge/-ganeshpaih24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganeshpaih24/)](https://www.linkedin.com/in/ganeshpaih24/) [![Gmail Badge](https://img.shields.io/badge/-ganeshpaih24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ganeshpaih24@gmail.com)](mailto:ganeshpaih24@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ganeshpaih24-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ganeshpaih24/)](https://www.instagram.com/ganeshpaih24/)
 
 
+ ## Nothing much, just a snake eating up my contributions graph
+ ![snake gif](https://github.com/ganeshpaih24/ganeshpaih24/blob/output/github-contribution-grid-snake.gif)
+ 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
+ <b> Show some ❤️ by starring some of the repositories!</b>
 
 </div>
 
