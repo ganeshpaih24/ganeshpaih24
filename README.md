@@ -74,6 +74,10 @@ B.E. 3rd year Information Science student. Currently working as the Website Edit
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ganeshpaih24&repo=SCL-2022-DataPirates&theme=radical" />
 </a>    
+ 
+ ## Badges
+
+[![@ganeshpaih24's Holopin board](https://holopin.io/api/user/board?user=ganeshpaih24)](https://holopin.io/@ganeshpaih24)
 
 
 ##  Contact Me 📱
