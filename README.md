@@ -1,7 +1,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=f75c7e&height=100&width=1000&lines=Hello+There!;I+am+Ganesh+Pai+H;Aspiring+Developer;Always+learning+new+things;Feel+free+to+look+around!)](https://git.io/typing-svg)
  <p align="center">
 <img width=420 alt="photo"
-src="https://raw.githubusercontent.com/ganeshpaih24/ganeshpaih24/master/resources/developer.gif" />
+src="https://raw.githubusercontent.com/ganeshpaih24/ganeshpaih24/main/resources/developer.gif" />
  </p>
  
  <br>
